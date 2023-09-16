@@ -11,16 +11,16 @@ body {
 }
 
 #continer{
-    max-width: 80%;
+    max-width: 60%;
     margin: auto;
-    
     margin-top: 20%;
-    border: 3px solid black;
-    border-radius: 10px;ßß;
-    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(49, 39, 96);
+    border-radius: 20px;
+    background-color: rgb(253, 244, 244);
     background-size: cover;
     background-position: center;
     height: auto;
+  
     
 }
 
